@@ -1,10 +1,16 @@
 某个八键街机游戏的note出现规律记录合集
 
-资源来自于互联网公开内容,本仓库只起到整合作用
+资源来自于互联网公开内容, 本仓库只起到整合作用
 
-自用学习git的仓库
+抄谱记录成 maidata.txt 后使用 [MaiChartConverter](https://github.com/Neskol/MaichartConverter) 转换成 ma2 文件.
 
-编写maidata.txt后使用MaiChartConverter转换
+xml 文件是瞎几把乱填的,不具备参考价值,也不保证谱面的绝对准确性.
+
+谱面上传更新时间随缘, 不保证新出内容立刻更新.
+
+仓库仅用于非商业学习交流目的, 如果收到 DMCA 删库通知后会立刻删除
+
+不需要标明出处 (抄错了不要怪我) 不承担任何法律责任
 
 其余的想起来再补充
 
