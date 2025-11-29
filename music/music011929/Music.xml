@@ -56,7 +56,7 @@
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>1</subLockType>
+  <subLockType>0</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

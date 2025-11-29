@@ -56,7 +56,7 @@
     <str>無期限常時解放</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>1</subLockType>
+  <subLockType>0</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
