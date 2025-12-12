@@ -1,4 +1,4 @@
-&title=雲外蒼電
+&title=雲外蒼電 -Dreaming Voltage-
 &artist=adaptor vs DRIVE.
 &wholebpm=160
 &first=0
