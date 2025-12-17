@@ -16,12 +16,12 @@
     <str>ジェットブラック</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
-    <str />
+    <id>271</id>
+    <str>© Crypton Future Media, INC. www.piapro.net (+piapro logo) ©SEGA</str>
   </rightsInfoName>
-  <sortName>ジェットブラック</sortName>
+  <sortName>シエツトフラツク</sortName>
   <artistName>
-    <id>999</id>
+    <id>1100</id>
     <str>雄之助</str>
   </artistName>
   <genreName>
@@ -101,7 +101,7 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>13</musicLevelID>
-      <maxNotes>547</maxNotes>
+      <maxNotes>541</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
