@@ -6,17 +6,12 @@ import re
 import platform
 
 # ================= 配置区域 =================
-# 这里是默认备用路径，仅当用户直接回车不输入时使用
 DEFAULT_PATH_A = "maidata_old.txt"
 DEFAULT_PATH_B = "maidata_new.txt"
 # ===========================================
 
 def enable_windows_ansi_support():
-    """
-    在 Windows 系统上开启 ANSI 颜色支持。
-    """
-    if platform.system() != "Windows":
-        return
+    if platform.system() != "Windows": return
     import ctypes
     STD_OUTPUT_HANDLE = -11
     ENABLE_VIRTUAL_TERMINAL_PROCESSING = 0x0004
@@ -24,12 +19,10 @@ def enable_windows_ansi_support():
         kernel32 = ctypes.windll.kernel32
         hOut = kernel32.GetStdHandle(STD_OUTPUT_HANDLE)
         dwMode = ctypes.c_ulong()
-        if not kernel32.GetConsoleMode(hOut, ctypes.byref(dwMode)):
-            return
+        kernel32.GetConsoleMode(hOut, ctypes.byref(dwMode))
         dwMode.value |= ENABLE_VIRTUAL_TERMINAL_PROCESSING
         kernel32.SetConsoleMode(hOut, dwMode)
-    except Exception:
-        pass
+    except: pass
 
 enable_windows_ansi_support()
 
@@ -42,146 +35,134 @@ class Colors:
 
 def normalize_slide_note(note):
     """处理 Slide 路径顺序 (*连接部分)"""
-    if '*' not in note:
-        return note
+    if '*' not in note: return note
     parts = note.split('*')
-    first_part = parts[0]
-    match = re.search(r"([-^v<>pqszwV])", first_part)
-    if not match:
-        return note
+    match = re.search(r"([-^v<>pqszwV])", parts[0])
+    if not match: return note
     split_index = match.start()
-    head = first_part[:split_index]
-    path1 = first_part[split_index:]
+    head = parts[0][:split_index]
+    path1 = parts[0][split_index:]
     all_paths = [path1] + parts[1:]
     all_paths.sort()
     return head + '*'.join(all_paths)
 
 def normalize_simai_segment(segment):
-    """处理逗号分隔的片段 (BPM/分音 + 多押排序 + Slide排序)"""
+    """处理逗号片段: 去除空白 -> 拆分多押 -> 标准化Slide -> 多押排序"""
     segment = segment.strip()
     if not segment: return ""
-    
     match = re.match(r"^(\{.*?\})(.*)$", segment)
-    prefix = ""
-    content = segment
-    if match:
-        prefix = match.group(1)
-        content = match.group(2)
+    prefix, content = (match.group(1), match.group(2)) if match else ("", segment)
     
     if content:
-        notes = content.split('/')
-        processed_notes = []
-        for n in notes:
-            clean_n = n.strip()
-            norm_n = normalize_slide_note(clean_n)
-            processed_notes.append(norm_n)
-        processed_notes.sort()
-        sorted_content = '/'.join(processed_notes)
-    else:
-        sorted_content = ""
-    return prefix + sorted_content
+        notes = [normalize_slide_note(n.strip()) for n in content.split('/')]
+        notes.sort()
+        content = '/'.join(notes)
+    return prefix + content
 
 def normalize_simai_line(line):
     line = line.strip()
-    if not line: return ""
-    if line.startswith('&'): return line
-    segments = line.split(',')
-    return ','.join([normalize_simai_segment(seg) for seg in segments])
+    if not line or line.startswith('&'): return line
+    return ','.join([normalize_simai_segment(s) for s in line.split(',')])
 
-def highlight_diff(text_a, text_b):
+def highlight_line_diff(text_a, text_b):
+    """为单行文本生成高亮差异字符串"""
     matcher = difflib.SequenceMatcher(None, text_a, text_b)
-    output_a = []
-    output_b = []
+    out_a, out_b = [], []
     for opcode, a0, a1, b0, b1 in matcher.get_opcodes():
         if opcode == 'equal':
-            output_a.append(text_a[a0:a1])
-            output_b.append(text_b[b0:b1])
+            out_a.append(text_a[a0:a1])
+            out_b.append(text_b[b0:b1])
         elif opcode == 'insert':
-            output_b.append(Colors.GREEN + text_b[b0:b1] + Colors.RESET)
+            out_b.append(Colors.GREEN + text_b[b0:b1] + Colors.RESET)
         elif opcode == 'delete':
-            output_a.append(Colors.RED + text_a[a0:a1] + Colors.RESET)
+            out_a.append(Colors.RED + text_a[a0:a1] + Colors.RESET)
         elif opcode == 'replace':
-            output_a.append(Colors.RED + text_a[a0:a1] + Colors.RESET)
-            output_b.append(Colors.GREEN + text_b[b0:b1] + Colors.RESET)
-    return "".join(output_a), "".join(output_b)
+            out_a.append(Colors.RED + text_a[a0:a1] + Colors.RESET)
+            out_b.append(Colors.GREEN + text_b[b0:b1] + Colors.RESET)
+    return "".join(out_a), "".join(out_b)
 
 def compare_files(file_a_path, file_b_path):
-    # 简单的路径清理
+    # 路径清理
     file_a_path = file_a_path.strip().strip('"').strip("'")
     file_b_path = file_b_path.strip().strip('"').strip("'")
 
-    if not os.path.exists(file_a_path):
-        print(f"{Colors.RED}错误: 找不到文件 A -> {file_a_path}{Colors.RESET}")
-        return
-    if not os.path.exists(file_b_path):
-        print(f"{Colors.RED}错误: 找不到文件 B -> {file_b_path}{Colors.RESET}")
+    if not os.path.exists(file_a_path) or not os.path.exists(file_b_path):
+        print(f"{Colors.RED}错误: 找不到文件。{Colors.RESET}")
         return
 
-    def read_file(path):
+    def read_lines(path):
         try:
             with open(path, 'r', encoding='utf-8') as f: return f.readlines()
-        except UnicodeDecodeError:
+        except:
             with open(path, 'r', encoding='gb18030') as f: return f.readlines()
-        except Exception as e:
-            print(f"读取文件失败: {e}")
-            return []
 
-    lines_a = read_file(file_a_path)
-    lines_b = read_file(file_b_path)
+    lines_a = read_lines(file_a_path)
+    lines_b = read_lines(file_b_path)
 
-    print(f"\n正在对比:")
-    print(f" A: {Colors.YELLOW}{file_a_path}{Colors.RESET}")
-    print(f" B: {Colors.YELLOW}{file_b_path}{Colors.RESET}\n")
-    print("-" * 60)
-
-    diff_count = 0
+    print(f"\n正在对比:\n A: {file_a_path}\n B: {file_b_path}\n" + "-"*60)
     
-    for i, (line_a, line_b) in enumerate(itertools.zip_longest(lines_a, lines_b, fillvalue="")):
-        line_num = i + 1
-        raw_a = line_a.strip() if line_a else ""
-        raw_b = line_b.strip() if line_b else ""
+    # 使用 SequenceMatcher 获取行级别的差异块
+    matcher = difflib.SequenceMatcher(None, lines_a, lines_b)
+    diff_count = 0
 
-        norm_a = normalize_simai_line(raw_a)
-        norm_b = normalize_simai_line(raw_b)
+    for opcode, a0, a1, b0, b1 in matcher.get_opcodes():
+        if opcode == 'equal':
+            continue
+        
+        # 获取这一块涉及的行
+        chunk_a = lines_a[a0:a1]
+        chunk_b = lines_b[b0:b1]
+        
+        # === 核心修改逻辑 ===
+        # 使用 zip_longest 强制在当前差异块内进行“行对行”的遍历
+        # 这样即使 difflib 认为是一大块 replace，我们也会一行一行地打印
+        for i, (line_a, line_b) in enumerate(itertools.zip_longest(chunk_a, chunk_b, fillvalue="")):
+            
+            # 计算真实的行号
+            current_line_num_a = a0 + i + 1 if line_a else ""
+            
+            raw_a = line_a.strip()
+            raw_b = line_b.strip()
 
-        if norm_a != norm_b:
+            # 进行 Simai 语法标准化对比
+            norm_a = normalize_simai_line(raw_a)
+            norm_b = normalize_simai_line(raw_b)
+
+            # 如果标准化后相同，且不是纯插入/删除的情况，则忽略
+            # (处理：虽然被包含在 replace 块里，但可能只有这一行是相同的，或者等价的)
+            if norm_a == norm_b and line_a and line_b:
+                continue
+
             diff_count += 1
-            display_a, display_b = highlight_diff(raw_a, raw_b)
-            print(f"{Colors.CYAN}Line {line_num}:{Colors.RESET} 发现差异")
-            print(f"  文件A: {display_a if raw_a else '(空)'}")
-            print(f"  文件B: {display_b if raw_b else '(空)'}")
+            
+            # 生成高亮
+            disp_a, disp_b = highlight_line_diff(raw_a, raw_b)
+            
+            line_str = f"Line {current_line_num_a}" if current_line_num_a else "插入行"
+            print(f"{Colors.CYAN}{line_str}:{Colors.RESET}")
+            
+            if raw_a: print(f"  A: {disp_a}")
+            else:     print(f"  A: (空/不存在)")
+            
+            if raw_b: print(f"  B: {disp_b}")
+            else:     print(f"  B: (空/被删除)")
+            
             print("-" * 40)
 
     print("=" * 60)
-    if diff_count == 0:
-        print(f"{Colors.GREEN}完全一致！{Colors.RESET} (已忽略等价的乱序字符)")
-    else:
-        print(f"对比完成，共发现 {Colors.RED}{diff_count}{Colors.RESET} 处实质性差异。")
+    print(f"对比完成，共发现 {Colors.RED}{diff_count}{Colors.RESET} 处实质性差异。")
     
-    # 交互模式下暂停，防止窗口直接关闭
-    if len(sys.argv) < 3:
-        input("\n按回车键退出...")
+    if len(sys.argv) < 3: input("\n按回车键退出...")
 
-def get_user_input_path(prompt_text, default_val):
-    """获取用户输入，如果直接回车则使用默认值"""
-    path = input(prompt_text).strip()
-    # 去除拖拽文件可能产生的引号
-    path = path.strip('"').strip("'")
-    if not path:
-        return default_val
-    return path
+def get_user_input_path(prompt, default_val):
+    path = input(prompt).strip().strip('"').strip("'")
+    return path if path else default_val
 
 if __name__ == "__main__":
-    # 检查是否传入了命令行参数
     if len(sys.argv) >= 3:
-        path_a = sys.argv[1]
-        path_b = sys.argv[2]
-        compare_files(path_a, path_b)
+        compare_files(sys.argv[1], sys.argv[2])
     else:
-        print(f"{Colors.CYAN}=== Simai 谱面差异对比工具 ==={Colors.RESET}")
-        print("提示: 您可以直接将文件拖入窗口来输入路径。\n")
-        
-        path_a = get_user_input_path(f"请输入旧文件(File A)路径 [默认: {DEFAULT_PATH_A}]: ", DEFAULT_PATH_A)
-        path_b = get_user_input_path(f"请输入新文件(File B)路径 [默认: {DEFAULT_PATH_B}]: ", DEFAULT_PATH_B)
-        
-        compare_files(path_a, path_b)
+        print(f"{Colors.CYAN}=== Simai 谱面差异对比工具 (行对行修复版) ==={Colors.RESET}\n")
+        pa = get_user_input_path(f"File A [默认: {DEFAULT_PATH_A}]: ", DEFAULT_PATH_A)
+        pb = get_user_input_path(f"File B [默认: {DEFAULT_PATH_B}]: ", DEFAULT_PATH_B)
+        compare_files(pa, pb)
