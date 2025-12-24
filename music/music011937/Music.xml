@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011942</dataName>
+  <dataName>music011937</dataName>
   <netOpenName>
     <id>251224</id>
     <str>Net251224</str>
@@ -12,35 +12,35 @@
   <disable>false</disable>
   <longMusic>0</longMusic>
   <name>
-    <id>11942</id>
-    <str>ヤミナベ!!!!</str>
+    <id>11937</id>
+    <str>スノーマン (Rerec)</str>
   </name>
   <rightsInfoName>
-    <id>266</id>
+    <id>272</id>
     <str />
   </rightsInfoName>
-  <sortName>ヤミナヘ</sortName>
+  <sortName>スノウマンREREC</sortName>
   <artistName>
-    <id>45</id>
-    <str>cosMo＠暴走P</str>
+    <id>999</id>
+    <str>halyosy</str>
   </artistName>
   <genreName>
     <id>102</id>
     <str>niconicoボーカロイド</str>
   </genreName>
-  <bpm>264</bpm>
+  <bpm>127</bpm>
   <version>26009</version>
   <AddVersion>
     <id>25</id>
     <str>CiRCLE</str>
   </AddVersion>
   <movieName>
-    <id>1942</id>
-    <str>ヤミナベ!!!!</str>
+    <id>1937</id>
+    <str>スノーマン (Rerec)</str>
   </movieName>
   <cueName>
-    <id>1942</id>
-    <str>ヤミナベ!!!!</str>
+    <id>1937</id>
+    <str>スノーマン (Rerec)</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -61,67 +61,67 @@
   <notesData>
     <Notes>
       <file>
-        <path>011942_00.ma2</path>
+        <path>011937_00.ma2</path>
       </file>
-      <level>6</level>
+      <level>2</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>6</musicLevelID>
-      <maxNotes>299</maxNotes>
+      <musicLevelID>2</musicLevelID>
+      <maxNotes>176</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_01.ma2</path>
+        <path>011937_01.ma2</path>
       </file>
-      <level>8</level>
-      <levelDecimal>5</levelDecimal>
+      <level>6</level>
+      <levelDecimal>2</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>9</musicLevelID>
-      <maxNotes>372</maxNotes>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>265</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_02.ma2</path>
+        <path>011937_02.ma2</path>
       </file>
-      <level>12</level>
-      <levelDecimal>6</levelDecimal>
+      <level>9</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
-        <id>2</id>
-        <str>はっぴー</str>
+        <id>128</id>
+        <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>18</musicLevelID>
-      <maxNotes>652</maxNotes>
+      <musicLevelID>12</musicLevelID>
+      <maxNotes>480</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_03.ma2</path>
+        <path>011937_03.ma2</path>
       </file>
-      <level>14</level>
-      <levelDecimal>5</levelDecimal>
+      <level>13</level>
+      <levelDecimal>1</levelDecimal>
       <notesDesigner>
-        <id>27</id>
-        <str>サファ太</str>
+        <id>4</id>
+        <str>Jack</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>21</musicLevelID>
-      <maxNotes>1006</maxNotes>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>725</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_04.ma2</path>
+        <path>011937_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -136,7 +136,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>011942_05.ma2</path>
+        <path>011937_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>

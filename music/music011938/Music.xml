@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011942</dataName>
+  <dataName>music011938</dataName>
   <netOpenName>
     <id>251224</id>
     <str>Net251224</str>
@@ -12,35 +12,35 @@
   <disable>false</disable>
   <longMusic>0</longMusic>
   <name>
-    <id>11942</id>
-    <str>ヤミナベ!!!!</str>
+    <id>11938</id>
+    <str>JINGLE DEATH</str>
   </name>
   <rightsInfoName>
-    <id>266</id>
-    <str />
+    <id>160</id>
+    <str>©Marvelous Inc. / Supported by HARDCORE TANO*C</str>
   </rightsInfoName>
-  <sortName>ヤミナヘ</sortName>
+  <sortName>JINGLEDEATH</sortName>
   <artistName>
-    <id>45</id>
-    <str>cosMo＠暴走P</str>
+    <id>999</id>
+    <str>DJ Myosuke &amp; Gram</str>
   </artistName>
   <genreName>
-    <id>102</id>
-    <str>niconicoボーカロイド</str>
+    <id>104</id>
+    <str>ゲームバラエティ</str>
   </genreName>
-  <bpm>264</bpm>
+  <bpm>222</bpm>
   <version>26009</version>
   <AddVersion>
     <id>25</id>
     <str>CiRCLE</str>
   </AddVersion>
   <movieName>
-    <id>1942</id>
-    <str>ヤミナベ!!!!</str>
+    <id>1938</id>
+    <str>JINGLE DEATH</str>
   </movieName>
   <cueName>
-    <id>1942</id>
-    <str>ヤミナベ!!!!</str>
+    <id>1938</id>
+    <str>JINGLE DEATH</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -61,67 +61,67 @@
   <notesData>
     <Notes>
       <file>
-        <path>011942_00.ma2</path>
+        <path>011938_00.ma2</path>
       </file>
-      <level>6</level>
+      <level>5</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>6</musicLevelID>
-      <maxNotes>299</maxNotes>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>208</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_01.ma2</path>
+        <path>011938_01.ma2</path>
       </file>
       <level>8</level>
-      <levelDecimal>5</levelDecimal>
+      <levelDecimal>2</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>9</musicLevelID>
-      <maxNotes>372</maxNotes>
+      <maxNotes>418</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_02.ma2</path>
+        <path>011938_02.ma2</path>
       </file>
       <level>12</level>
-      <levelDecimal>6</levelDecimal>
+      <levelDecimal>4</levelDecimal>
       <notesDesigner>
-        <id>2</id>
-        <str>はっぴー</str>
+        <id>128</id>
+        <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>18</musicLevelID>
-      <maxNotes>652</maxNotes>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>548</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_03.ma2</path>
+        <path>011938_03.ma2</path>
       </file>
       <level>14</level>
-      <levelDecimal>5</levelDecimal>
+      <levelDecimal>1</levelDecimal>
       <notesDesigner>
-        <id>27</id>
-        <str>サファ太</str>
+        <id>6</id>
+        <str>ロシェ@ペンギン</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>21</musicLevelID>
-      <maxNotes>1006</maxNotes>
+      <maxNotes>859</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011942_04.ma2</path>
+        <path>011938_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -136,7 +136,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>011942_05.ma2</path>
+        <path>011938_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
