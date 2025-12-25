@@ -11,6 +11,13 @@
 - `template/`：生成新谱面或配置时可复用的模板示例。
 - `tools/`：个人使用的谱面核验工具，对于游玩游戏没有用处，可以忽略。
 
+## 使用方法
+
+ 1. 在 `Package\Sinmai_Data\StreamingAssets` 文件目录下拉取本仓库 `git clone https://github.com/MerryMing/mai-chart-collection`
+ 2. 将本仓库重命名为 `Axxx`, `xxx` 为任意三位自然数, 建议命名数字大一点, 比如 `A700`
+ 3. 在文件夹内使用 `git pull` 更新谱面
+ 4. Enjoy!
+
 ## 文件内容声明
 
 - 请注意：由于获取谱面内容渠道不足，本人无法确定 BASIC 和 ADVANCED 难度谱面的 TOUCH 烟花效果。
