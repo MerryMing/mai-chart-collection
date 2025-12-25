@@ -1,6 +1,8 @@
 # mai-chart-collection
 
-记录并整合某八键街机音游的谱面与相关资源。
+记录并整合 maimai 的谱面与相关资源。
+
+当前版本: CiRCLE
 
 所有内容来源于公开互联网，仅做学习交流之用。
 
@@ -13,22 +15,23 @@
 
 ## 使用方法
 
- 1. 在 `Package\Sinmai_Data\StreamingAssets` 文件目录下拉取本仓库 `git clone https://github.com/MerryMing/mai-chart-collection`
- 2. 将本仓库重命名为 `Axxx`, `xxx` 为任意三位自然数, 建议命名数字大一点, 比如 `A700`
- 3. 在文件夹内使用 `git pull` 更新谱面
- 4. Enjoy!
+ 1. 进入 `Package\Sinmai_Data\StreamingAssets` 文件目录下
+ 2. 拉取本仓库: `git clone https://github.com/MerryMing/mai-chart-collection`
+ 3. 将本仓库重命名为 `Axxx`, `xxx` 为任意三位自然数, 建议命名数字大一点, 比如 `A700`
+ 4. 在新建好的 `Axxx` 文件夹内使用 `git pull` 更新谱面
+ 5. Enjoy!
 
 ## 文件内容声明
 
 - 请注意：由于获取谱面内容渠道不足，本人无法确定 BASIC 和 ADVANCED 难度谱面的 TOUCH 烟花效果。
 - 谱面随缘更新，不保证及时跟进官方内容。
-- `Music.xml` 可能与实际内容不一致，仅供参考。
+- 文件内容可能与实际内容不一致，仅供参考。
 
 ## 版权声明
 
 - 所有资源版权归原作方所有，本仓库不参与任何商业用途。
 - 若接获 DMCA 等正式通知，将立即移除相关内容。
-- 无需标注引用来源；如因误差导致问题，请自行斟酌使用。
+- 无需标注引用来源；如因文件内容误差导致问题，请自行斟酌使用，本人概不负责。
 
 <!-- markdownlint-disable MD033 -->
 <h5>该文档使用AI辅助生成</h5>
