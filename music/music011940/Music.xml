@@ -72,7 +72,7 @@
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
       <maxNotes>222</maxNotes>
-      <isEnable>false</isEnable>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
@@ -87,7 +87,7 @@
       <notesType>0</notesType>
       <musicLevelID>7</musicLevelID>
       <maxNotes>401</maxNotes>
-      <isEnable>false</isEnable>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
