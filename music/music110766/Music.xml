@@ -151,16 +151,16 @@
     </Notes>
   </notesData>
   <utageKanjiName>邪</utageKanjiName>
-  <comment>占位符</comment>
+  <comment>せたっ作を面識なルワジイ</comment>
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>
     <FixedOption>
-      <_fixedOptionName>TrackSkip</_fixedOptionName>
-      <_fixedOptionValue>AutoLife10</_fixedOptionValue>
+      <_fixedOptionName>Mirror</_fixedOptionName>
+      <_fixedOptionValue>Off</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName>None</_fixedOptionName>
-      <_fixedOptionValue>None</_fixedOptionValue>
+      <_fixedOptionName>TrackSkip</_fixedOptionName>
+      <_fixedOptionValue>AutoLife10</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
       <_fixedOptionName>None</_fixedOptionName>
