@@ -151,7 +151,7 @@
     </Notes>
   </notesData>
   <utageKanjiName>鏡</utageKanjiName>
-  <comment>占位符</comment>
+  <comment>MIRROR of ADVANCED(↻)</comment>
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>
     <FixedOption>
@@ -159,8 +159,8 @@
       <_fixedOptionValue>Off</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName>None</_fixedOptionName>
-      <_fixedOptionValue>None</_fixedOptionValue>
+      <_fixedOptionName>Mirror</_fixedOptionName>
+      <_fixedOptionValue>Off</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
       <_fixedOptionName>None</_fixedOptionName>
