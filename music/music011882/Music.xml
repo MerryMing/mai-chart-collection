@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>250918025</id>
+    <str>250918_02_5：トリコロちほー 1曲+2曲(Lock)追加</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -55,8 +55,8 @@
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>2</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
