@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>250926022</id>
+    <str>250926_02_2：サークルフェスタポイント報酬 DXnew1曲(Lock)追加《Magical Flavor》</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>251120023</id>
+    <str>251120_02_3：フェスタ報酬楽曲 一般開放《廃墟にいますキャンペーン、Magical Flavor》</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

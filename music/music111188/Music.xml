@@ -18,7 +18,7 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>[藍] 絶え間なく藍色</sortName>
+  <sortName>タエマナクアイイロ</sortName>
   <artistName>
     <id>613</id>
     <str>獅子志司</str>
@@ -35,16 +35,16 @@
   </AddVersion>
   <movieName>
     <id>1188</id>
-    <str>[藍] 絶え間なく藍色</str>
+    <str>絶え間なく藍色</str>
   </movieName>
   <cueName>
     <id>1188</id>
-    <str>[藍] 絶え間なく藍色</str>
+    <str>絶え間なく藍色</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251016024</id>
+    <str>251016_02_4：宴譜面追加2</str>
   </eventName>
   <eventName2>
     <id>-1</id>

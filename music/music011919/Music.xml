@@ -17,11 +17,11 @@
   </name>
   <rightsInfoName>
     <id>284</id>
-    <str />
+    <str>Taiko no Tatsujin™Series &amp; ©Bandai Namco Entertainment Inc.</str>
   </rightsInfoName>
-  <sortName>エンジェルドリーム</sortName>
+  <sortName>エンシエルトリイム</sortName>
   <artistName>
-    <id>999</id>
+    <id>1075</id>
     <str>「太鼓の達人」より</str>
   </artistName>
   <genreName>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>250926021</id>
+    <str>250926_02_1：バラエティ2曲追加《エンジェル ドリーム、Hurtling Boys》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -56,7 +56,7 @@
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251016022</id>
+    <str>251016_02_2：すたんぷカード報酬追加2《怪盗Rのテーマ》</str>
   </eventName>
   <eventName2>
     <id>0</id>
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>0</id>
+    <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

@@ -17,9 +17,9 @@
   </name>
   <rightsInfoName>
     <id>265</id>
-    <str />
+    <str>© かめりあ © Crypton Future Media, INC. www.piapro.net (+piapro logo)</str>
   </rightsInfoName>
-  <sortName>ヒアソビ</sortName>
+  <sortName>ヒアソヒ</sortName>
   <artistName>
     <id>759</id>
     <str>かめりあ</str>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251031021</id>
+    <str>251031_02_1：niconico1曲追加《ラプラスショコラ,ヒアソビ》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -56,7 +56,7 @@
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

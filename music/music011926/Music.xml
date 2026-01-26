@@ -16,12 +16,12 @@
     <str>はじまりの未来</str>
   </name>
   <rightsInfoName>
-    <id>264</id>
-    <str />
+    <id>282</id>
+    <str>© SEGA/© CP/© CFM/ PSFC</str>
   </rightsInfoName>
-  <sortName>ハジマリノミライ</sortName>
+  <sortName>ハシマリノミライ</sortName>
   <artistName>
-    <id>999</id>
+    <id>1081</id>
     <str>40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」</str>
   </artistName>
   <genreName>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251016021</id>
+    <str>251016_02_1：劇場版プロジェクトセカイ 壊れたセカイと歌えないミクちほー 2曲追加《はじまりの未来、Worlders》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -56,7 +56,7 @@
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

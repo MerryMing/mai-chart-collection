@@ -12,13 +12,13 @@
   <disable>false</disable>
   <name>
     <id>111783</id>
-    <str>[音] snooze </str>
+    <str>[音] snooze</str>
   </name>
   <rightsInfoName>
     <id>217</id>
-    <str />
+    <str>© 2024 wotaku</str>
   </rightsInfoName>
-  <sortName>[音] snooze </sortName>
+  <sortName>SNOOZE</sortName>
   <artistName>
     <id>999</id>
     <str>wotaku feat.SHIKI</str>
@@ -35,16 +35,16 @@
   </AddVersion>
   <movieName>
     <id>1783</id>
-    <str>[音] snooze </str>
+    <str>snooze</str>
   </movieName>
   <cueName>
     <id>1783</id>
-    <str>[音] snooze </str>
+    <str>snooze</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251016024</id>
+    <str>251016_02_4：宴譜面追加2</str>
   </eventName>
   <eventName2>
     <id>-1</id>

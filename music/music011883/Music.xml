@@ -19,9 +19,9 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>ハイキョニイマスキャンペーン</sortName>
+  <sortName>ハイキヨニイマスキヤンヘエン</sortName>
   <artistName>
-    <id>999</id>
+    <id>1091</id>
     <str>吉田夜世 feat.ちっく。</str>
   </artistName>
   <genreName>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251016022</id>
+    <str>251016_02_2：フェスタ報酬楽曲 1曲(Lock)</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>251120023</id>
+    <str>251120_02_3：フェスタ報酬楽曲 一般開放《廃墟にいますキャンペーン、Magical Flavor》</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>5</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

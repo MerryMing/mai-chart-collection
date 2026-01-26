@@ -17,11 +17,11 @@
   </name>
   <rightsInfoName>
     <id>262</id>
-    <str />
+    <str>©Yaregino　重音テト©線/小山乃舞世/(+twindrill logo)</str>
   </rightsInfoName>
-  <sortName>ハイケイサイコウノシデタチイ</sortName>
+  <sortName>ハイケイサイコウノオモイテタチ</sortName>
   <artistName>
-    <id>999</id>
+    <id>1079</id>
     <str>ヤレギノ</str>
   </artistName>
   <genreName>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251003021</id>
+    <str>251003_02_1：FEAT CONTESTちほー 2曲+3曲(Lock)追加《しゅ～しん？変身☆ハカイシンzzZ、命テステス、拝啓、最高の思い出たち、おべんきょうたいむ、るろうらんる》</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>251205024</id>
+    <str>251205_02_4：FEAT CONTESTちほー一般開放《拝啓、最高の思い出たち、おべんきょうたいむ、るろうらんる》</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
