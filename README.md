@@ -8,7 +8,6 @@
 
 ## 目录结构
 
-- `maidata/`：抄写的谱面文本（`maidata.txt`），文件名与曲目 ID 对应。
 - `music/`：按曲目ID划分的乐曲配置与谱面数据（含 `Music.xml` 与 `.ma2`）。
 - `template/`：生成新谱面或配置时可复用的模板示例。
 - `tools/`：个人使用的谱面核验工具，对于游玩游戏没有用处，可以忽略。
@@ -18,7 +17,7 @@
  1. 进入 `Package\Sinmai_Data\StreamingAssets` 文件目录下
  2. 拉取本仓库: `git clone https://github.com/MerryMing/mai-chart-collection`
  3. 将本仓库重命名为 `Axxx`, `xxx` 为任意三位自然数, 建议命名数字大一点, 比如 `A700`
- 4. 在新建好的 `Axxx` 文件夹内使用 `git pull` 更新谱面
+ 4. (可选)在新建好的 `Axxx` 文件夹内使用 `git pull` 更新谱面
  5. Enjoy!
 
 ## 文件内容声明
