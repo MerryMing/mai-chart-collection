@@ -21,7 +21,7 @@
   </rightsInfoName>
   <sortName>GETUBACK</sortName>
   <artistName>
-    <id>999</id>
+    <id>939</id>
     <str>Ryo Fukuda</str>
   </artistName>
   <genreName>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251107021</id>
+    <str>251107_02_1：kawaiiちほー2 4曲(Lock)追加</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -55,8 +55,8 @@
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>2</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -96,8 +96,8 @@
       <level>12</level>
       <levelDecimal>9</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>きよむりん</str>
+        <id>124</id>
+        <str>きょむりん</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>18</musicLevelID>
@@ -112,7 +112,7 @@
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>128</id>
-        <str>Luxizhei</str>
+        <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>21</musicLevelID>
