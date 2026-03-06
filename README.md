@@ -10,13 +10,12 @@
 
 本项目将在 CiRCLE 版本完结后暂停更新，直至本人收到 1.65 更新包后恢复更新
 
-由于 `11956 Break the Speaker` 在 CiRCLE PLUS 版本中, 本仓库暂未收录, 将整理后放在懒人包中
+由于 `11956 Break The Speakers` 在 CiRCLE PLUS 版本中, 本仓库暂未收录, 将整理后放在懒人包中
 
 版本懒人包将在 [Release](https://github.com/MerryMing/mai-chart-collection/releases) 发布， 敬请期待 (咕咕咕...)
 
 ## 目录结构
 
-- `archive/`：之前版本的谱面。
 - `music/`：按曲目ID划分的乐曲配置与谱面数据。
 - `template/`：生成新谱面或配置时可复用的模板示例。
 - `tools/`：个人使用的谱面核验工具，对于游玩游戏没有用处，可以忽略。
@@ -43,6 +42,5 @@
 - 无需标注引用来源；如因文件内容误差导致问题，请自行斟酌使用，本人概不负责。
 
 <!-- markdownlint-disable MD033 -->
-
 <h5>该仓库内容使用AI辅助生成</h5>
 <!-- markdownlint-enable MD033 -->
