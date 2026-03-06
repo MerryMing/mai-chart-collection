@@ -10,6 +10,7 @@
     <str>Ver1.60.00</str>
   </releaseTagName>
   <disable>false</disable>
+  <longMusic>0</longMusic>
   <name>
     <id>111188</id>
     <str>[藍] 絶え間なく藍色</str>

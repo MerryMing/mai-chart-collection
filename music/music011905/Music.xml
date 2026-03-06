@@ -71,7 +71,7 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>5</musicLevelID>
-      <maxNotes>0</maxNotes>
+      <maxNotes>249</maxNotes>
       <isEnable>false</isEnable>
     </Notes>
     <Notes>
@@ -86,7 +86,7 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>8</musicLevelID>
-      <maxNotes>0</maxNotes>
+      <maxNotes>375</maxNotes>
       <isEnable>false</isEnable>
     </Notes>
     <Notes>

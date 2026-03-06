@@ -85,7 +85,7 @@
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>7</musicLevelID>
+      <musicLevelID>8</musicLevelID>
       <maxNotes>300</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
@@ -111,7 +111,7 @@
       <level>14</level>
       <levelDecimal>3</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>196</id>
         <str>るしえる</str>
       </notesDesigner>
       <notesType>0</notesType>

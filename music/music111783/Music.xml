@@ -10,6 +10,7 @@
     <str>Ver1.60.00</str>
   </releaseTagName>
   <disable>false</disable>
+  <longMusic>0</longMusic>
   <name>
     <id>111783</id>
     <str>[音] snooze</str>
