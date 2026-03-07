@@ -2,31 +2,13 @@
 
 记录并整合 maimai 的谱面与相关资源。
 
-当前适配版本: CiRCLE
+当前适配版本: SDEZ 1.60 (CiRCLE)
 
 所有内容来源于公开互联网，仅做学习交流之用。
 
-## 通知
-
-本项目将在 CiRCLE 版本完结后暂停更新，直至本人收到 1.65 更新包后恢复更新
-
-由于 `11956 Break The Speakers` 在 CiRCLE PLUS 版本中, 本仓库暂未收录, 将整理后放在懒人包中
-
-版本懒人包将在 [Release](https://github.com/MerryMing/mai-chart-collection/releases) 发布， 敬请期待 (咕咕咕...)
-
-## 目录结构
-
-- `music/`：按曲目ID划分的乐曲配置与谱面数据。
-- `template/`：生成新谱面或配置时可复用的模板示例。
-- `tools/`：个人使用的谱面核验工具，对于游玩游戏没有用处，可以忽略。
-
 ## 使用方法
 
- 1. 进入 `Package\Sinmai_Data\StreamingAssets` 文件目录下
- 2. 拉取本仓库: `git clone https://github.com/MerryMing/mai-chart-collection`
- 3. 将本仓库重命名为 `Axxx`， `xxx` 为任意三位自然数，建议命名数字大一点，比如 `A700`
- 4. (可选)在新建好的 `Axxx` 文件夹内使用 `git pull` 更新谱面
- 5. Enjoy！
+版本懒人包在 [Release](https://github.com/MerryMing/mai-chart-collection/releases), 包含缺少的资产文件, 请直接下载使用.
 
 ## 文件内容声明
 
@@ -40,7 +22,3 @@
 - 所有资源版权归原作方所有，本仓库不参与任何商业用途。
 - 若接获 DMCA 等正式通知，将立即移除相关内容。
 - 无需标注引用来源；如因文件内容误差导致问题，请自行斟酌使用，本人概不负责。
-
-<!-- markdownlint-disable MD033 -->
-<h5>该仓库内容使用AI辅助生成</h5>
-<!-- markdownlint-enable MD033 -->
