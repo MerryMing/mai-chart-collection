@@ -2,17 +2,13 @@
 
 记录并整合 maimai 的谱面与相关资源。
 
-当前适配版本: SDEZ 1.60 (CiRCLE)
+当前适配版本: SDEZ 1.65 (CiRCLE-PLUS)
 
 所有内容来源于公开互联网，仅做学习交流之用。
 
 ## 通知
 
-本项目暂停更新，直至 1.65 更新包 ~~理科~~ 发布后恢复更新
-
-由于 `11956 Break The Speakers` 在 CiRCLE PLUS 版本中，本仓库暂未收录
-
-版本懒人包在 [Release](https://github.com/MerryMing/mai-chart-collection/releases) 发布，包含缺失的资产文件，使用方法请阅读包内 `README.md` 文件。
+1.60 (CiRCLE) 版本懒人包在 [Release](https://github.com/MerryMing/mai-chart-collection/releases) 发布，包含缺失的资产文件，使用方法请阅读包内 `README.md` 文件。
 
 ## 目录结构
 

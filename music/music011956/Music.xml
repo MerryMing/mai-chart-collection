@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<MusicData xmlns:xsi="http://www.w3.org/2077/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2077/XMLSchema">
-  <dataName>music012077</dataName>
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011956</dataName>
   <netOpenName>
-    <id>260319</id>
-    <str>Net260319</str>
+    <id>260403</id>
+    <str>Net260403</str>
   </netOpenName>
   <releaseTagName>
     <id>6501</id>
@@ -12,35 +12,35 @@
   <disable>false</disable>
   <longMusic>0</longMusic>
   <name>
-    <id>12077</id>
-    <str>testSongName</str>
+    <id>11956</id>
+    <str>Break The Speakers</str>
   </name>
   <rightsInfoName>
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>TESTSONGNAME</sortName>
+  <sortName>BREAKTHESPEAKERS</sortName>
   <artistName>
-    <id>999</id>
-    <str>testArtist</str>
+    <id>655</id>
+    <str>DJ Myosuke</str>
   </artistName>
   <genreName>
     <id>105</id>
     <str>maimai</str>
   </genreName>
-  <bpm>114</bpm>
-  <version>26500</version>
+  <bpm>185</bpm>
+  <version>26502</version>
   <AddVersion>
     <id>26</id>
     <str>CiRCLEPLUS</str>
   </AddVersion>
   <movieName>
-    <id>2077</id>
-    <str>testSongName</str>
+    <id>1956</id>
+    <str>Break The Speakers</str>
   </movieName>
   <cueName>
-    <id>2077</id>
-    <str>testSongName</str>
+    <id>1956</id>
+    <str>Break The Speakers</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -61,82 +61,82 @@
   <notesData>
     <Notes>
       <file>
-        <path>012077_00.ma2</path>
+        <path>011956_00.ma2</path>
       </file>
-      <level>3</level>
+      <level>5</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>3</musicLevelID>
-      <maxNotes>114</maxNotes>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>275</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>012077_01.ma2</path>
+        <path>011956_01.ma2</path>
       </file>
-      <level>7</level>
-      <levelDecimal>5</levelDecimal>
+      <level>8</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>7</musicLevelID>
-      <maxNotes>514</maxNotes>
+      <musicLevelID>10</musicLevelID>
+      <maxNotes>443</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>012077_02.ma2</path>
+        <path>011956_02.ma2</path>
       </file>
-      <level>10</level>
-      <levelDecimal>3</levelDecimal>
+      <level>12</level>
+      <levelDecimal>9</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>testExpert</str>
+        <id>6</id>
+        <str>ロシェ@ペンギン</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>13</musicLevelID>
-      <maxNotes>1919</maxNotes>
+      <musicLevelID>18</musicLevelID>
+      <maxNotes>705</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>012077_03.ma2</path>
-      </file>
-      <level>13</level>
-      <levelDecimal>3</levelDecimal>
-      <notesDesigner>
-        <id>999</id>
-        <str>testMaster</str>
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>19</musicLevelID>
-      <maxNotes>8100</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>012077_04.ma2</path>
+        <path>011956_03.ma2</path>
       </file>
       <level>14</level>
-      <levelDecimal>5</levelDecimal>
+      <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>testReMaster</str>
+        <id>146</id>
+        <str>BELiZHEL</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>21</musicLevelID>
-      <maxNotes>886</maxNotes>
+      <musicLevelID>22</musicLevelID>
+      <maxNotes>1096</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>012077_05.ma2</path>
+        <path>011956_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011956_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
