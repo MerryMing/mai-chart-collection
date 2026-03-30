@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011883</dataName>
   <netOpenName>
@@ -11,7 +11,7 @@
   </releaseTagName>
   <disable>false</disable>
   <longMusic>0</longMusic>
-    <name>
+  <name>
     <id>11883</id>
     <str>廃墟にいますキャンペーン</str>
   </name>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>251016022</id>
-    <str>251016_02_2：フェスタ報酬楽曲 1曲(Lock)</str>
+    <id>251016026</id>
+    <str>251016_02_6：フェスタ報酬楽曲 1曲(Lock)</str>
   </eventName>
   <eventName2>
     <id>251120023</id>
@@ -150,7 +150,7 @@
       <isEnable>false</isEnable>
     </Notes>
   </notesData>
-    <utageKanjiName />
+  <utageKanjiName />
   <comment />
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011929</dataName>
   <netOpenName>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>251031021</id>
-    <str>251031_02_1：niconico1曲追加《ラプラスショコラ,ヒアソビ》</str>
+    <id>251030022</id>
+    <str>251030_02_2：niconico1曲追加《ヒアソビ》</str>
   </eventName>
   <eventName2>
     <id>0</id>

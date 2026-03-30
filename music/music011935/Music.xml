@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011935</dataName>
   <netOpenName>
-    <id>2501205</id>
+    <id>251205</id>
     <str>Net251205</str>
   </netOpenName>
   <releaseTagName>
@@ -17,9 +17,9 @@
   </name>
   <rightsInfoName>
     <id>266</id>
-    <str />
+    <str>©cosMo＠暴走P © Crypton Future Media, INC. www.piapro.net (+piapro logo)</str>
   </rightsInfoName>
-  <sortName>ハツネミクノボウソウ</sortName>
+  <sortName>ハツネミクノホウソウ</sortName>
   <artistName>
     <id>45</id>
     <str>cosMo＠暴走P</str>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251205021</id>
+    <str>251205_02_1：cosMo＠暴走Pちほー2 2曲+1曲(Lock)追加《初音ミクの暴走、Let's ミクササイズ、ラストピースに祝福と栄光を》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -56,7 +56,7 @@
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

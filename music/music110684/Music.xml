@@ -44,16 +44,16 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251224022</id>
+    <str>251224_02_2：宴譜面追加4</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </eventName2>
   <subEventName>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </subEventName>
   <lockType>0</lockType>
   <subLockType>0</subLockType>

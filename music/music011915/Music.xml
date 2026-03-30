@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011915</dataName>
   <netOpenName>
@@ -13,15 +13,15 @@
   <longMusic>0</longMusic>
   <name>
     <id>11915</id>
-    <str>み む かｩ わ ナ イ ス ト ラ イ</str>
+    <str>み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ</str>
   </name>
   <rightsInfoName>
     <id>283</id>
-    <str />
+    <str>©ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ © Crypton Future Media, INC. www.piapro.net (+piapro logo)</str>
   </rightsInfoName>
-  <sortName>ミムカワナイストライ</sortName>
+  <sortName>ミムカウワナイストライ</sortName>
   <artistName>
-    <id>999</id>
+    <id>1102</id>
     <str>ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ</str>
   </artistName>
   <genreName>
@@ -36,16 +36,16 @@
   </AddVersion>
   <movieName>
     <id>1915</id>
-    <str>み む かｩ わ ナ イ ス ト ラ イ</str>
+    <str>み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ</str>
   </movieName>
   <cueName>
     <id>1915</id>
-    <str>み む かｩ わ ナ イ ス ト ラ イ</str>
+    <str>み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260109022</id>
+    <str>260109_02_2：niconico3曲追加《アイアイ傘 feat. 雨衣、み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ、化けの花》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -56,7 +56,7 @@
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -126,7 +126,7 @@
       <level>0</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
@@ -141,7 +141,7 @@
       <level>0</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>

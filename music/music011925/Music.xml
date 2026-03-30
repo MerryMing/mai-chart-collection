@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011925</dataName>
   <netOpenName>
@@ -49,7 +49,7 @@
   </eventName>
   <eventName2>
     <id>251205024</id>
-    <str>251205_02_4：FEAT CONTESTちほー一般開放《拝啓、最高の思い出たち、おべんきょうたいむ、るろうらんる》</str>
+    <str>251205_02_4：FEAT CONTESTちほー一般開放 《拝啓、最高の思い出たち、おべんきょうたいむ、るろうらんる》</str>
   </eventName2>
   <subEventName>
     <id>0</id>

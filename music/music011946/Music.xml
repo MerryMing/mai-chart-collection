@@ -48,15 +48,15 @@
     <str>260123_02_1：Paradigm: Rebootちほー 2曲+1曲(Lock)追加《Restricted Access、胡蝶乃舞、零號車輛》</str>
   </eventName>
   <eventName2>
-    <id>260424024</id>
-    <str>260424_02_4：Paradigm:Rebootちほー一般開放《零號車輛》</str>
+    <id>0</id>
+    <str>解放なし</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

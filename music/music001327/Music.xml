@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music001327</dataName>
   <netOpenName>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251205027</id>
+    <str>251205_02_7：サークルフェスタ報酬 STnew1曲(Lock)追加《僕は空気が嫁ない》</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>260206023</id>
+    <str>260206_02_3：フェスタ報酬楽曲 一般開放《ヤミナベ!!!!、僕は空気が嫁ない》</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

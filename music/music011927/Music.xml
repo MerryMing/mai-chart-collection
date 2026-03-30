@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011927</dataName>
   <netOpenName>
@@ -16,8 +16,8 @@
     <str>Worlders</str>
   </name>
   <rightsInfoName>
-    <id>282</id>
-    <str>© SEGA/© CP/© CFM/ PSFC</str>
+    <id>264</id>
+    <str>©「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」製作委員会</str>
   </rightsInfoName>
   <sortName>WORLDERS</sortName>
   <artistName>

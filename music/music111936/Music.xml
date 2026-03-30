@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music111936</dataName>
+  <netOpenName>
+    <id>251205</id>
+    <str>Net251205</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>6001</id>
+    <str>Ver1.60.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <longMusic>0</longMusic>
+  <name>
+    <id>111936</id>
+    <str>[鍛]Let's ミクササイズ！！</str>
+  </name>
+  <rightsInfoName>
+    <id>275</id>
+    <str>© Crypton Future Media, INC. www.piapro.net (+piapro logo) Art by 火種 © Imagineer Co., Ltd. ＊「ミクといっしょにエクササイズ」及び「ミクササイズ」はクリプトン・フューチャー・メディア株式会社の登録商標です。</str>
+  </rightsInfoName>
+  <sortName>LETSミクササイスFROMFITBOXING</sortName>
+  <artistName>
+    <id>1083</id>
+    <str>cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」</str>
+  </artistName>
+  <genreName>
+    <id>107</id>
+    <str>宴会場</str>
+  </genreName>
+  <bpm>239</bpm>
+  <version>26007</version>
+  <AddVersion>
+    <id>25</id>
+    <str>CiRCLE</str>
+  </AddVersion>
+  <movieName>
+    <id>1936</id>
+    <str>Let's ミクササイズ！！</str>
+  </movieName>
+  <cueName>
+    <id>1936</id>
+    <str>Let's ミクササイズ！！</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName>
+  <eventName2>
+    <id>-1</id>
+    <str />
+  </eventName2>
+  <subEventName>
+    <id>-1</id>
+    <str />
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>111936_00.ma2</path>
+      </file>
+      <level>5</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>16</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111936_01.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111936_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111936_03.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111936_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111936_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName>鍛</utageKanjiName>
+  <comment>ここにコメントが入ります</comment>
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music111919</dataName>
   <netOpenName>
@@ -17,11 +17,11 @@
   </name>
   <rightsInfoName>
     <id>284</id>
-    <str />
+    <str>©Bandai Namco Entertainment Inc.</str>
   </rightsInfoName>
   <sortName>エンシエルトリイム</sortName>
   <artistName>
-    <id>999</id>
+    <id>1075</id>
     <str>「太鼓の達人」より</str>
   </artistName>
   <genreName>
@@ -36,24 +36,24 @@
   </AddVersion>
   <movieName>
     <id>1919</id>
-    <str>エンジェルドリーム</str>
+    <str>エンジェル ドリーム</str>
   </movieName>
   <cueName>
     <id>1919</id>
-    <str>エンジェルドリーム</str>
+    <str>エンジェル ドリーム</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251224022</id>
+    <str>251224_02_2：宴譜面追加4</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </eventName2>
   <subEventName>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </subEventName>
   <lockType>0</lockType>
   <subLockType>0</subLockType>

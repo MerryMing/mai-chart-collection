@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music111188</dataName>
   <netOpenName>
@@ -13,7 +13,7 @@
   <longMusic>0</longMusic>
   <name>
     <id>111188</id>
-    <str>[藍] 絶え間なく藍色</str>
+    <str>[藍]絶え間なく藍色</str>
   </name>
   <rightsInfoName>
     <id>0</id>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>251016024</id>
-    <str>251016_02_4：宴譜面追加2</str>
+    <id>251016022</id>
+    <str>251016_02_2：宴譜面追加2</str>
   </eventName>
   <eventName2>
     <id>-1</id>

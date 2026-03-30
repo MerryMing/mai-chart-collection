@@ -28,7 +28,7 @@
     <id>104</id>
     <str>ゲームバラエティ</str>
   </genreName>
-  <bpm>222</bpm>
+  <bpm>185</bpm>
   <version>26012</version>
   <AddVersion>
     <id>25</id>
@@ -56,7 +56,7 @@
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

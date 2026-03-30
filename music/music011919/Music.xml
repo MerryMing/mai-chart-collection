@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011919</dataName>
   <netOpenName>
@@ -17,7 +17,7 @@
   </name>
   <rightsInfoName>
     <id>284</id>
-    <str>Taiko no Tatsujin™Series &amp; ©Bandai Namco Entertainment Inc.</str>
+    <str>©Bandai Namco Entertainment Inc.</str>
   </rightsInfoName>
   <sortName>エンシエルトリイム</sortName>
   <artistName>

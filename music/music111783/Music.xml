@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music111783</dataName>
   <netOpenName>
@@ -13,7 +13,7 @@
   <longMusic>0</longMusic>
   <name>
     <id>111783</id>
-    <str>[音] snooze</str>
+    <str>[音]snooze</str>
   </name>
   <rightsInfoName>
     <id>217</id>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>251016024</id>
-    <str>251016_02_4：宴譜面追加2</str>
+    <id>251016022</id>
+    <str>251016_02_2：宴譜面追加2</str>
   </eventName>
   <eventName2>
     <id>-1</id>
@@ -151,7 +151,7 @@
     </Notes>
   </notesData>
   <utageKanjiName>音</utageKanjiName>
-  <comment>~音取りほぼMAXバ一ジョン~</comment>
+  <comment>～音取りほぼMAXバージョン～</comment>
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>
     <FixedOption>

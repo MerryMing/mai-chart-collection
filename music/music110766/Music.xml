@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music110766</dataName>
   <netOpenName>
@@ -44,16 +44,16 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260116022</id>
+    <str>260116_02_2：宴譜面追加5</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </eventName2>
   <subEventName>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </subEventName>
   <lockType>0</lockType>
   <subLockType>0</subLockType>

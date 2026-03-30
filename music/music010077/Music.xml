@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music010077</dataName>
   <netOpenName>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>251016022</id>
-    <str>251016_02_2：すたんぷカード報酬追加2《怪盗Rのテーマ》</str>
+    <id>251016023</id>
+    <str>251016_02_3：バラエティDXnew1曲(Lock)追加（【DXnew】怪盗Rのテーマ）</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -66,8 +66,8 @@
       <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
@@ -81,8 +81,8 @@
       <level>6</level>
       <levelDecimal>2</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>

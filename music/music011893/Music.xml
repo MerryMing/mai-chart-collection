@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011893</dataName>
   <netOpenName>
@@ -19,9 +19,9 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>カテンゲツト</sortName>
+  <sortName>カテンケツト</sortName>
   <artistName>
-    <id>999</id>
+    <id>1063</id>
     <str>satella feat.Risa Yuzuki</str>
   </artistName>
   <genreName>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251212021</id>
+    <str>251212_02_1：高天原ちほー2 4曲(Lock)追加</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -55,8 +55,8 @@
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>2</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

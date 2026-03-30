@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011901</dataName>
   <netOpenName>
@@ -19,7 +19,7 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>ラストピースニシュクフクトエイコウヲ</sortName>
+  <sortName>ラストヒイスニシユクフクトエイコウヲ</sortName>
   <artistName>
     <id>45</id>
     <str>cosMo＠暴走P</str>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251205021</id>
+    <str>251205_02_1：cosMo＠暴走Pちほー2 2曲+1曲(Lock)追加《初音ミクの暴走、Let's ミクササイズ、ラストピースに祝福と栄光を》</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>260206022</id>
+    <str>260206_02_2：cosMo＠暴走Pちほー2一般開放《ラストピースに祝福と栄光を》</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -111,7 +111,7 @@
       <level>14</level>
       <levelDecimal>6</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>198</id>
         <str>せめんともり</str>
       </notesDesigner>
       <notesType>0</notesType>

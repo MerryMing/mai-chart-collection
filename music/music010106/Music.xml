@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music010106</dataName>
   <netOpenName>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251205022</id>
+    <str>251205_02_2：niconicoDXnew1曲(Lock)追加《BAD∞END∞NIGHT》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -55,8 +55,8 @@
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -66,8 +66,8 @@
       <level>4</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>4</musicLevelID>
@@ -81,8 +81,8 @@
       <level>7</level>
       <levelDecimal>8</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>8</musicLevelID>
