@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011955</dataName>
   <netOpenName>
@@ -21,8 +21,8 @@
   </rightsInfoName>
   <sortName>ソテリア</sortName>
   <artistName>
-    <id>999</id>
-    <str>Rafutsuri feat. 桜あおい</str>
+    <id>1133</id>
+    <str>Rafutsuri feat.桜あおい</str>
   </artistName>
   <genreName>
     <id>105</id>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260319024</id>
+    <str>260319_02_4：トリコロちほー 1曲+3曲(Lock)追加</str>
   </eventName>
   <eventName2>
     <id>0</id>
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>2</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -126,7 +126,7 @@
       <level>0</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
@@ -141,7 +141,7 @@
       <level>0</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>

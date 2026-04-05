@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011956</dataName>
+  <dataName>music011989</dataName>
   <netOpenName>
     <id>260403</id>
     <str>Net260403</str>
@@ -12,47 +12,47 @@
   <disable>false</disable>
   <longMusic>0</longMusic>
   <name>
-    <id>11956</id>
-    <str>Break The Speakers</str>
+    <id>11989</id>
+    <str>お返事まだカナ？おじさん構文！</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
+    <id>299</id>
     <str />
   </rightsInfoName>
-  <sortName>BREAKTHESPEAKERS</sortName>
+  <sortName>オカエジマダカナオジサンコウブン</sortName>
   <artistName>
-    <id>655</id>
-    <str>DJ Myosuke</str>
+    <id>999</id>
+    <str>吉本おじさん</str>
   </artistName>
   <genreName>
-    <id>105</id>
-    <str>maimai</str>
+    <id>102</id>
+    <str>niconicoボーカロイド</str>
   </genreName>
-  <bpm>185</bpm>
+  <bpm>225</bpm>
   <version>26502</version>
   <AddVersion>
     <id>26</id>
     <str>CiRCLEPLUS</str>
   </AddVersion>
   <movieName>
-    <id>1956</id>
-    <str>Break The Speakers</str>
+    <id>1989</id>
+    <str>お返事まだカナ？おじさん構文！</str>
   </movieName>
   <cueName>
-    <id>1956</id>
-    <str>Break The Speakers</str>
+    <id>1989</id>
+    <str>お返事まだカナ？おじさん構文！</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
     <id>1</id>
-    <str>解放なし</str>
+    <str>無期限常時解放</str>
   </eventName>
   <eventName2>
     <id>0</id>
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>0</id>
+    <id>1</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
@@ -61,67 +61,69 @@
   <notesData>
     <Notes>
       <file>
-        <path>011956_00.ma2</path>
+        <path>011989_00.ma2</path>
       </file>
-      <level>5</level>
+      <level>4</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>5</musicLevelID>
-      <maxNotes>275</maxNotes>
+      <musicLevelID>4</musicLevelID>
+      <maxNotes>203</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011956_01.ma2</path>
+        <path>011989_01.ma2</path>
       </file>
-      <level>8</level>
+      <level>7</level>
       <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>0</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>10</musicLevelID>
-      <maxNotes>443</maxNotes>
+      <musicLevelID>8</musicLevelID>
+      <maxNotes>315</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011956_02.ma2</path>
+        <path>011989_02.ma2</path>
       </file>
-      <level>12</level>
-      <levelDecimal>9</levelDecimal>
+      <level>11</level>
+      <levelDecimal>3</levelDecimal>
       <notesDesigner>
-        <id>6</id>
-        <str>ロシェ@ペンギン</str>
+        <id>128</id>
+        <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>18</musicLevelID>
-      <maxNotes>705</maxNotes>
+      <musicLevelID>15</musicLevelID>
+      <maxNotes>548</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011956_03.ma2</path>
+        <path>011989_03.ma2</path>
       </file>
-      <level>14</level>
-      <levelDecimal>7</levelDecimal>
+      <level>13</level>
+      <levelDecimal>6</levelDecimal>
       <notesDesigner>
-        <id>146</id>
-        <str>BELiZHEL</str>
+        <id>2</id>
+        <str>はっぴー</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>22</musicLevelID>
-      <maxNotes>1096</maxNotes>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>793</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011956_04.ma2</path>
+        <path>011989_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -136,7 +138,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>011956_05.ma2</path>
+        <path>011989_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
