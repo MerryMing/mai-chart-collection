@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011987</dataName>
   <netOpenName>
@@ -17,11 +17,11 @@
   </name>
   <rightsInfoName>
     <id>305</id>
-    <str />
+    <str>©Hakababunko / SHUEISHA, SHUEISHA GAMES</str>
   </rightsInfoName>
   <sortName>キキカイタイ</sortName>
   <artistName>
-    <id>999</id>
+    <id>1144</id>
     <str>MURASAKI feat.かたたかんな</str>
   </artistName>
   <genreName>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260401022</id>
+    <str>260401_02_2：都市伝説解体センターちほー 1曲追加《奇々解体》</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>260612024</id>
+    <str>260612_02_4：都市伝説解体センターちほー一般開放《奇々解体》</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>6</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -96,7 +96,7 @@
       <level>9</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>206</id>
         <str>廻屋渉</str>
       </notesDesigner>
       <notesType>0</notesType>
@@ -111,7 +111,7 @@
       <level>13</level>
       <levelDecimal>2</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>206</id>
         <str>廻屋渉</str>
       </notesDesigner>
       <notesType>0</notesType>

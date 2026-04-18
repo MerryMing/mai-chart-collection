@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music130429</dataName>
   <netOpenName>
-    <id>0</id>
+    <id>260401</id>
     <str>Net260401</str>
   </netOpenName>
   <releaseTagName>
@@ -13,16 +13,16 @@
   <longMusic>0</longMusic>
   <name>
     <id>130429</id>
-    <str>[宴]Wonderland Wars オープニング</str>
+    <str>[宴]Wonderland Wars　オープニング</str>
   </name>
   <rightsInfoName>
     <id>40</id>
     <str>©SEGA</str>
   </rightsInfoName>
-  <sortName>WONDERLANDWARSオープニング</sortName>
+  <sortName>WONDERLANDWARSオオフニンク</sortName>
   <artistName>
-    <id>406</id>
-    <str>「童話」は、全て「戦記」だった </str>
+    <id>516</id>
+    <str>「童話」は、全て「戦記」だった</str>
   </artistName>
   <genreName>
     <id>107</id>
@@ -36,11 +36,11 @@
   </AddVersion>
   <movieName>
     <id>429</id>
-    <str>Wonderland Wars オープニング</str>
+    <str>DEBUG_Wonderland Wars オープニング</str>
   </movieName>
   <cueName>
     <id>429</id>
-    <str>Wonderland Wars オープニング</str>
+    <str>DEBUG_Wonderland Wars オープニング</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -63,15 +63,15 @@
       <file>
         <path>130429_00.ma2</path>
       </file>
-      <level>13</level>
+      <level>12</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>19</musicLevelID>
-      <maxNotes>160</maxNotes>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>112</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
@@ -151,7 +151,7 @@
     </Notes>
   </notesData>
   <utageKanjiName>宴</utageKanjiName>
-  <comment>MASTER（チャン氏のReMASが）</comment>
+  <comment>EXPERT（全難度を作成した訳です）</comment>
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>
     <FixedOption>

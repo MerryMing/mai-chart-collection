@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011971</dataName>
   <netOpenName>
@@ -21,7 +21,7 @@
   </rightsInfoName>
   <sortName>キミハミテイタネ</sortName>
   <artistName>
-    <id>999</id>
+    <id>1118</id>
     <str>曲：篠崎あやと、橘亮祐／歌：結城 莉玖(CV：朝日奈 丸佳)、東雲 つむぎ(CV：和泉 風花)</str>
   </artistName>
   <genreName>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260401021</id>
+    <str>260401_02_1：チュウニズム＆オンゲキ1曲追加《キミは“見ていたね”？》</str>
   </eventName>
   <eventName2>
     <id>0</id>
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -67,8 +67,7 @@
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
-        <str>
-        </str>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
@@ -83,8 +82,7 @@
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
         <id>0</id>
-        <str>
-        </str>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>

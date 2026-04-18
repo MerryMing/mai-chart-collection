@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011990</dataName>
   <netOpenName>
@@ -17,11 +17,11 @@
   </name>
   <rightsInfoName>
     <id>300</id>
-    <str />
+    <str>©not records</str>
   </rightsInfoName>
   <sortName>ZEUS</sortName>
   <artistName>
-    <id>999</id>
+    <id>1137</id>
     <str>DÉ DÉ MOUSE &amp; KAJI</str>
   </artistName>
   <genreName>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260403021</id>
+    <str>260403_02_1：niconico2曲、バラエティ1曲追加《雑魚、お返事まだカナ？おじさん構文！、ZEUS》</str>
   </eventName>
   <eventName2>
     <id>0</id>
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>

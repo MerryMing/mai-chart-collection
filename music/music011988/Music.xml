@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011988</dataName>
   <netOpenName>
@@ -17,9 +17,9 @@
   </name>
   <rightsInfoName>
     <id>298</id>
-    <str />
+    <str>©柊マグネタイト　©DWANGO Co., Ltd. © Crypton Future Media, INC. www.piapro.net (+piapro logo) 重音テト © 線/小山乃舞世/(+twindrill logo) © スミス・ヒオカ/Crypton Future Media, INC. www.piapro.net (+piapro logo)</str>
   </rightsInfoName>
-  <sortName>ザコ</sortName>
+  <sortName>サコ</sortName>
   <artistName>
     <id>778</id>
     <str>柊マグネタイト</str>
@@ -44,19 +44,19 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260403021</id>
+    <str>260403_02_1：niconico2曲、バラエティ1曲追加《雑魚、お返事まだカナ？おじさん構文！、ZEUS》</str>
   </eventName>
   <eventName2>
     <id>0</id>
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -67,8 +67,7 @@
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
-        <str>
-        </str>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>2</musicLevelID>
@@ -83,8 +82,7 @@
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
         <id>0</id>
-        <str>
-        </str>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>
@@ -118,7 +116,7 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>19</musicLevelID>
-      <maxNotes>767</maxNotes>
+      <maxNotes>765</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
