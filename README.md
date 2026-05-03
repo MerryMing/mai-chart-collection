@@ -8,6 +8,10 @@
 
 ## 通知
 
+本项目使用 Simon 大佬的 [HachimiDX](https://github.com/ck2739046/HachimiDX-Convert) 抄谱器抄谱，识别准确率能够达到 90% + 
+
+在此十分感谢 Simon 大佬做出的贡献！！！如果着急的小伙伴可以尝试自己部署使用，不要忘记 Star 支持！！！
+
 1.60 (CiRCLE) 版本懒人包在 [Release](https://github.com/MerryMing/mai-chart-collection/releases) 发布，包含缺失的资产文件，使用方法请阅读包内 `README.md` 文件。
 
 ## 目录结构
