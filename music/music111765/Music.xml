@@ -37,11 +37,11 @@
   </AddVersion>
   <movieName>
     <id>1765</id>
-    <str>[音]愛包ダンスホール</str>
+    <str>愛包ダンスホール</str>
   </movieName>
   <cueName>
     <id>1765</id>
-    <str>[音]愛包ダンスホール</str>
+    <str>愛包ダンスホール</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -156,20 +156,20 @@
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
   </fixedOptions>
   <jacketFile />
