@@ -14,12 +14,6 @@
 
 1.60 (CiRCLE) 版本懒人包在 [Release](https://github.com/MerryMing/mai-chart-collection/releases) 发布，包含缺失的资产文件，使用方法请阅读包内 `README.md` 文件。
 
-## 目录结构
-
-- `music/`：按曲目ID划分的乐曲配置与谱面数据。
-- `template/`：生成新谱面或配置时可复用的模板示例。
-- `tools/`：个人使用的谱面核验工具，对于游玩游戏没有用处，可以忽略。
-
 ## 使用方法
 
  1. 进入 `Package\Sinmai_Data\StreamingAssets` 文件目录下
