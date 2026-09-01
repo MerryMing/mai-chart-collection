@@ -2,8 +2,8 @@
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011971</dataName>
   <netOpenName>
-    <id>260731</id>
-    <str>Net260731</str>
+    <id>260401</id>
+    <str>Net260401</str>
   </netOpenName>
   <releaseTagName>
     <id>6501</id>
@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>260731021</id>
-    <str>260731_02_1：チュウニズム＆オンゲキ1曲追加《キミは“見ていたね”？》</str>
+    <id>260401021</id>
+    <str>260401_02_1：チュウニズム＆オンゲキ1曲追加《キミは“見ていたね”？》</str>
   </eventName>
   <eventName2>
     <id>0</id>

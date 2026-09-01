@@ -66,8 +66,8 @@
       <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>-</str>
+        <id>0</id>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
@@ -81,8 +81,8 @@
       <level>6</level>
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str>-</str>
+        <id>0</id>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>
