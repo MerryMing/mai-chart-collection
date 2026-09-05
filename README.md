@@ -15,9 +15,11 @@
 
 所有内容来源于公开互联网，仅做学习交流之用。
 
+CiRCLE-PLUS 版本已经完结，本项目已经上传该版本全部谱面，将暂停更新一段时间。
+
 ## 致谢
 
-本项目使用 Simon 大佬的 [HachimiDX](https://github.com/ck2739046/HachimiDX) 抄谱器抄谱，识别准确率能够达到 90% +
+本项目离不开 Simon 大佬制作的 [HachimiDX](https://github.com/ck2739046/HachimiDX) 抄谱器的支持。
 
 如果着急想玩到最新最热的小伙伴可以尝试自己部署使用，不要忘记给项目 Star 支持！！！
 
