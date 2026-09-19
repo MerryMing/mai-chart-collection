@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music010267</dataName>
   <netOpenName>
@@ -55,8 +55,8 @@
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <lockType>1</lockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -66,9 +66,8 @@
       <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str>
-        </str>
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
@@ -82,9 +81,8 @@
       <level>6</level>
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str>
-        </str>
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>

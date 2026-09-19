@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music012018</dataName>
   <netOpenName>
@@ -17,11 +17,11 @@
   </name>
   <rightsInfoName>
     <id>304</id>
-    <str />
+    <str>©桃寝ちのい ©なみぐる ©nekomo</str>
   </rightsInfoName>
-  <sortName>デンノウミンミンマオ</sortName>
+  <sortName>テンノウミエンミエンマオ</sortName>
   <artistName>
-    <id>999</id>
+    <id>1143</id>
     <str>桃寝ちのい</str>
   </artistName>
   <genreName>
@@ -32,8 +32,7 @@
   <version>26515</version>
   <AddVersion>
     <id>26</id>
-    <str>
-    </str>
+    <str>CiRCLEPLUS</str>
   </AddVersion>
   <movieName>
     <id>2018</id>
@@ -53,11 +52,11 @@
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -67,8 +66,8 @@
       <level>2</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>2</musicLevelID>
@@ -82,8 +81,8 @@
       <level>6</level>
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>
@@ -97,7 +96,7 @@
       <level>10</level>
       <levelDecimal>4</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>212</id>
         <str>ブレーンバスター</str>
       </notesDesigner>
       <notesType>0</notesType>
@@ -151,10 +150,8 @@
       <isEnable>false</isEnable>
     </Notes>
   </notesData>
-  <utageKanjiName>
-  </utageKanjiName>
-  <comment>
-  </comment>
+  <utageKanjiName />
+  <comment />
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>
     <FixedOption>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music112002</dataName>
   <netOpenName>
@@ -21,7 +21,7 @@
   </rightsInfoName>
   <sortName>3RDAVENUE</sortName>
   <artistName>
-    <id>999</id>
+    <id>1138</id>
     <str>Sound Souler</str>
   </artistName>
   <genreName>
@@ -160,15 +160,15 @@
     </FixedOption>
     <FixedOption>
       <_fixedOptionName>None</_fixedOptionName>
-      <_fixedOptionValue>Off</_fixedOptionValue>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
       <_fixedOptionName>None</_fixedOptionName>
-      <_fixedOptionValue>Off</_fixedOptionValue>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
       <_fixedOptionName>None</_fixedOptionName>
-      <_fixedOptionValue>Off</_fixedOptionValue>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
   </fixedOptions>
   <jacketFile />

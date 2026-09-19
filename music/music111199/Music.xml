@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music111199</dataName>
   <netOpenName>
@@ -44,16 +44,16 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260626023</id>
+    <str>260626_02_3：宴譜面追加5</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </eventName2>
   <subEventName>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </subEventName>
   <lockType>0</lockType>
   <subLockType>0</subLockType>
@@ -76,7 +76,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>111119_01.ma2</path>
+        <path>111199_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -91,7 +91,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>111119_02.ma2</path>
+        <path>111199_02.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -106,7 +106,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>111119_03.ma2</path>
+        <path>111199_03.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -121,7 +121,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>111119_04.ma2</path>
+        <path>111199_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -136,7 +136,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>111119_05.ma2</path>
+        <path>111199_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>

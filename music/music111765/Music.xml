@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music111765</dataName>
   <netOpenName>
@@ -19,15 +19,14 @@
     <id>143</id>
     <str>©LaRa</str>
   </rightsInfoName>
-  <sortName>アイツツミダンスホール</sortName>
+  <sortName>アイハイタンスホオル</sortName>
   <artistName>
     <id>781</id>
     <str>HIMEHINA</str>
   </artistName>
   <genreName>
     <id>107</id>
-    <str>
-    </str>
+    <str>宴会場</str>
   </genreName>
   <bpm>141</bpm>
   <version>26506</version>
@@ -45,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>260514022</id>
+    <str>260514_02_2：宴譜面追加3</str>
   </eventName>
   <eventName2>
     <id>-1</id>

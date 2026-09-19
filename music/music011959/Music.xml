@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>260508021</id>
-    <str>260508_02_1：BLACK ROSEちほー11 3曲(Lock)追加</str>
+    <id>1</id>
+    <str>無期限常時解放</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -66,8 +66,8 @@
       <level>5</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>5</musicLevelID>
@@ -81,8 +81,8 @@
       <level>8</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>9</musicLevelID>

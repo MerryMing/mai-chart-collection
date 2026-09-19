@@ -44,8 +44,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>260501021</id>
-    <str>260501_02_1：ブルーアーカイブちほー2 3曲追加《Operation☆DOTABATA!、RE Aoharu、Usagi Flap》</str>
+    <id>1</id>
+    <str>無期限常時解放</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -66,8 +66,8 @@
       <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
@@ -81,8 +81,8 @@
       <level>7</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>7</musicLevelID>

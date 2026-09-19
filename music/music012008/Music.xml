@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music012008</dataName>
   <netOpenName>
@@ -16,10 +16,10 @@
     <str>ちっちゃな私</str>
   </name>
   <rightsInfoName>
-    <id>291</id>
-    <str>© マサラダ 重音テト©線/小山乃舞世/ツインドリル/(+twindrill logo)</str>
+    <id>250</id>
+    <str>© マサラダ</str>
   </rightsInfoName>
-  <sortName>チッチャナワタシ</sortName>
+  <sortName>チツチヤナワタシ</sortName>
   <artistName>
     <id>958</id>
     <str>マサラダ</str>
@@ -52,11 +52,11 @@
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -66,8 +66,8 @@
       <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
@@ -81,8 +81,8 @@
       <level>6</level>
       <levelDecimal>2</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>

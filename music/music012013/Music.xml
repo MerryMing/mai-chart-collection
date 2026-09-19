@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music012013</dataName>
   <netOpenName>
@@ -17,17 +17,16 @@
   </name>
   <rightsInfoName>
     <id>293</id>
-    <str />
+    <str>© Dream Engine Games</str>
   </rightsInfoName>
-  <sortName>ムサイショクノディストピア</sortName>
+  <sortName>ムサイシキノテイストヒア</sortName>
   <artistName>
-    <id>999</id>
+    <id>1130</id>
     <str>HyuN feat. ウォルピスカーター</str>
   </artistName>
   <genreName>
     <id>104</id>
-    <str>
-    </str>
+    <str>ゲームバラエティ</str>
   </genreName>
   <bpm>183</bpm>
   <version>26514</version>
@@ -53,11 +52,11 @@
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>1</id>
+    <id>0</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>0</subLockType>
+  <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -67,8 +66,8 @@
       <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
@@ -82,8 +81,8 @@
       <level>6</level>
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>

@@ -66,8 +66,8 @@
       <level>4</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>4</musicLevelID>
@@ -81,8 +81,8 @@
       <level>8</level>
       <levelDecimal>2</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>9</musicLevelID>
@@ -109,7 +109,7 @@
         <path>011955_03.ma2</path>
       </file>
       <level>14</level>
-      <levelDecimal>1</levelDecimal>
+      <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>27</id>
         <str>サファ太</str>

@@ -44,18 +44,18 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>260417021</id>
-    <str>260417_02_1：DEEMOちほー 2曲+1曲(Lock)追加《Nine Point Eight、Myosotis、ANiMA》</str>
+    <id>1</id>
+    <str>無期限常時解放</str>
   </eventName>
   <eventName2>
-    <id>260626024</id>
-    <str>260626_02_4：DEEMOちほー一般開放 《ANiMA》</str>
+    <id>0</id>
+    <str>解放なし</str>
   </eventName2>
   <subEventName>
     <id>0</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>1</lockType>
+  <lockType>0</lockType>
   <subLockType>1</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
@@ -66,8 +66,8 @@
       <level>6</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>
@@ -81,8 +81,8 @@
       <level>8</level>
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>999</id>
+        <str>-</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>9</musicLevelID>
