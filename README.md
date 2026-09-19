@@ -6,16 +6,16 @@
 
 记录并整合 maimai 的谱面与相关资源
 
-[![适配版本](https://img.shields.io/badge/适配版本-CiRCLE--PLUS-e75480)](https://info-maimai.sega.jp/8696/)
+[![适配版本](https://img.shields.io/badge/适配版本-MAGiCAL-1bbc5e)](https://info-maimai.sega.jp/9483/)
 [![Last Commit](https://img.shields.io/github/last-commit/MerryMing/mai-chart-collection?style=flat&display_timestamp=author)](https://github.com/MerryMing/mai-chart-collection/commits)
 
 </div>
 
-当前适配版本：**SDEZ 1.65 (CiRCLE-PLUS)**
+当前适配版本：**SDEZ 1.70 (MAGiCAL)**
 
 所有内容来源于公开互联网，仅做学习交流之用。
 
-CiRCLE-PLUS 版本已经完结，本项目已经上传该版本全部谱面，将暂停更新一段时间。
+如需寻找历史版本谱面，请切换对应版本分支查看。
 
 ## 致谢
 
