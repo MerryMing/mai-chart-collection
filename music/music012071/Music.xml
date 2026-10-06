@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music012071</dataName>
+  <netOpenName>
+    <id>261002</id>
+    <str>Net261002</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>7001</id>
+    <str>Ver1.70.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <longMusic>0</longMusic>
+  <name>
+    <id>12071</id>
+    <str>Crossfire</str>
+  </name>
+  <rightsInfoName>
+    <id>327</id>
+    <str>Licenced By Diverse System</str>
+  </rightsInfoName>
+  <sortName>CROSSFIRE</sortName>
+  <artistName>
+    <id>795</id>
+    <str>Blacklolita</str>
+  </artistName>
+  <genreName>
+    <id>104</id>
+    <str>ゲームバラエティ</str>
+  </genreName>
+  <bpm>200</bpm>
+  <version>27002</version>
+  <AddVersion>
+    <id>27</id>
+    <str>MAGiCAL</str>
+  </AddVersion>
+  <movieName>
+    <id>2071</id>
+    <str>Crossfire</str>
+  </movieName>
+  <cueName>
+    <id>2071</id>
+    <str>Crossfire</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>261002021</id>
+    <str>261002_02_1：k4sen ＆ Diverse Systemちほー2 2曲+2曲(Lock)追加《All Over Again、Energy、Crossfire、RE!NCARN4T10N》</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>1</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>012071_00.ma2</path>
+      </file>
+      <level>4</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>-</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>4</musicLevelID>
+      <maxNotes>265</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>012071_01.ma2</path>
+      </file>
+      <level>7</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>-</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>7</musicLevelID>
+      <maxNotes>383</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>012071_02.ma2</path>
+      </file>
+      <level>11</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>27</id>
+        <str>サファ太</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>15</musicLevelID>
+      <maxNotes>583</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>012071_03.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>4</id>
+        <str>Jack</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>741</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>012071_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>012071_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>
